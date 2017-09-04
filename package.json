@@ -11,6 +11,7 @@
     "url": "git+https://github.com/DCIDENW/dcidenw-services.git"
   },
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4",
     "firebase": "^4.3.0"
   },
