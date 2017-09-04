@@ -1,0 +1,22 @@
+{
+  "name": "dcidenw-services",
+  "version": "1.0.0",
+  "description": "Node JS App for RESTful services for Dcidenw app",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DCIDENW/dcidenw-services.git"
+  },
+  "dependencies" : {
+    "express" : "^4"
+  },
+  "author": "Anand Shenoy",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/DCIDENW/dcidenw-services/issues"
+  },
+  "homepage": "https://github.com/DCIDENW/dcidenw-services#readme"
+}
