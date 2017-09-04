@@ -10,8 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/DCIDENW/dcidenw-services.git"
   },
-  "dependencies" : {
-    "express" : "^4"
+  "dependencies": {
+    "express": "^4",
+    "firebase": "^4.3.0"
   },
   "author": "Anand Shenoy",
   "license": "UNLICENSED",
